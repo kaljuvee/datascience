@@ -1,3 +1,3 @@
 # Overview
 
-** Contains some sample methodology papers
+Contains some sample methodology papers
