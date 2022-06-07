@@ -1,0 +1,53 @@
+# Dictionary of RSS feeds that we will fetch and combine
+# GlobeNewsire / Europe - http://www.globenewswire.com/Rss/List
+# Businesswire - Industries / https://www.businesswire.com/portal/site/home/news/industries/
+# DowJones / WSJ / Markets - https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+# DowJones / Businesses - https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+# SP Indices - https://us.spindices.com/rss/
+
+# GlobeNewsire - Subjects
+globenewswire-us: http://www.globenewswire.com/RssFeed/country/United%20States/feedTitle/GlobeNewswire%20-%20News%20from%20United%20States
+globenewswire-ma: https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions
+globenewswire-earnings: http://www.globenewswire.com/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results
+globenewswire-public: http://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies
+# GlobeNewsire - Industries / Basic Materials
+globenewswire-basic-materials: http://www.globenewswire.com/RssFeed/industry/1000-Basic%20Materials/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Basic%20Materials
+globenewswire-aluminum: http://www.globenewswire.com/RssFeed/industry/1753-Aluminum/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Aluminum
+globenewswire-coal: http://www.globenewswire.com/RssFeed/industry/1771-Coal/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Coal
+globenewswire-commodity-chemicals: http://www.globenewswire.com/RssFeed/industry/1353-Commodity%20Chemicals/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Commodity%20Chemicals
+globenewswire-diamonds-gemstones: http://www.globenewswire.com/RssFeed/industry/1773-Diamonds%2026%20Gemstones/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Diamonds%20and%20Gemstones
+globenewswire-forestry: http://www.globenewswire.com/RssFeed/industry/1733-Forestry/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Forestry
+globenewswire-general-mining: http://www.globenewswire.com/RssFeed/industry/1775-General%20Mining/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20General%20Mining
+globenewswire-gold-mining: http://www.globenewswire.com/RssFeed/industry/1777-Gold%20Mining/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Gold%20Mining
+globenewswire-iron-steel: http://www.globenewswire.com/RssFeed/industry/1757-Iron%2026%20Steel/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Iron%20and%20Steel
+globenewswire-nonferrous-materials: http://www.globenewswire.com/RssFeed/industry/1755-Nonferrous%20Metals/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Nonferrous%20Metals
+globenewswire-paper: http://www.globenewswire.com/RssFeed/industry/1737-Paper/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Paper
+globenewswire-precious-materials: http://www.globenewswire.com/RssFeed/industry/1779-Platinum%2026%20Precious%20Metals/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Platinum%20and%20Precious%20Metals
+globenewswire-specialty-chemicals: http://www.globenewswire.com/RssFeed/industry/1357-Specialty%20Chemicals/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Specialty%20Chemicals
+# GlobeNewsire - Industries / Consumer Goods
+globenewswire-consumer-goods: http://www.globenewswire.com/RssFeed/industry/3000-Consumer%20Goods/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Consumer%20Goods
+globenewswire-autoparts: http://www.globenewswire.com/RssFeed/industry/3355-Auto%20Parts/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Auto%20Parts
+globenewswire-brewers: http://www.globenewswire.com/RssFeed/industry/3533-Brewers/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Brewers
+globenewswire-clothing-accessories: http://www.globenewswire.com/RssFeed/industry/3763-Clothing%2026%20Accessories/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Clothing%20and%20Accessories
+globenewswire-consumer-electronics: http://www.globenewswire.com/RssFeed/industry/3743-Consumer%20Electronics/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Consumer%20Electronics
+globenewswire-distillers-vintners: http://www.globenewswire.com/RssFeed/industry/3535-Distillers%2026%20Vintners/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Distillers%20and%20Vintners
+globenewswire-durable-houseproducts: http://www.globenewswire.com/RssFeed/industry/3722-Durable%20Household%20Products/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Durable%20Household%20Products
+globenewswire-farming-fishing: http://www.globenewswire.com/RssFeed/industry/3573-Farming%2026%20Fishing/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Farming%20and%20Fishing
+globenewswire-food-products: http://www.globenewswire.com/RssFeed/industry/3577-Food%20Products/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Food%20Products
+globenewswire-footwear: http://www.globenewswire.com/RssFeed/industry/3765-Footwear/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Footwear
+globenewswire-furnishings: http://www.globenewswire.com/RssFeed/industry/3726-Furnishings/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Furnishings
+globenewswire-home-construction: http://www.globenewswire.com/RssFeed/industry/3728-Home%20Construction/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Home%20Construction
+globenewswire-nondurable-household-products: http://www.globenewswire.com/RssFeed/industry/3724-Nondurable%20Household%20Products/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Nondurable%20Household%20Products
+globenewswire-personal-products: http://www.globenewswire.com/RssFeed/industry/3767-Personal%20Products/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Personal%20Products
+globenewswire-recreational-products: http://www.globenewswire.com/RssFeed/industry/3745-Recreational%20Products/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Recreational%20Products
+globenewswire-soft-drinks: http://www.globenewswire.com/RssFeed/industry/3537-Soft%20Drinks/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Soft%20Drinks
+globenewswire-tires: http://www.globenewswire.com/RssFeed/industry/3357-Tires/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Tires
+globenewswire-tobacco: http://www.globenewswire.com/RssFeed/industry/3785-Tobacco/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Tobacco
+globenewswire-toys: http://www.globenewswire.com/RssFeed/industry/3747-Toys/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Toys
+# Businesswire - Industries / https://www.businesswire.com/portal/site/home/news/industries/
+#businesswire-automotive: https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEVlZXw==
+#businesswire-consumer: https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFpRVA==
+# DowJones 
+dowjones-wsj-businesses: https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+# Newswire - all
+newswire-all: https://www.newswire.com/newsroom/rss/custom/all-press-releases
