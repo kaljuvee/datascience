@@ -30,4 +30,5 @@ The **bigdata** folder includes:
 
 The **dataengineering** folder includes:
 
-* **Ecommerce** - sample code to build ETLs for an ecommerce company, including interfaces to Stripe and Salesforce
+* **Terraform** - sample commands how to structure a Terraform project
+* **SQL** - sample SQL fragments, including window functions
