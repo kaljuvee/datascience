@@ -6,7 +6,7 @@ To build a proof of concept (POC) for extracting scheduled and as required (PRN 
 
 - Clone this repo:
   ```
-  git clone https://github.com/kaljuvee/bridgesocialcare.git
+  git clone https://github.com/kaljuvee/ocr.git
   ```
   
 - Set up a Python virtual environment and activate it (Linux):
