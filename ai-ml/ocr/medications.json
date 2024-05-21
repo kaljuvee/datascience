@@ -1,0 +1,140 @@
+{
+    "scheduled_medications": [
+        {
+            "name": "acetaminophen",
+            "dosage": "975 mg",
+            "route": "oral",
+            "frequency": "Q6H",
+            "location": "page 5, row 1"
+        },
+        {
+            "name": "aspirin ec",
+            "dosage": "81 mg",
+            "route": "oral",
+            "frequency": "daily",
+            "location": "page 5, row 2"
+        },
+        {
+            "name": "atorvastatin",
+            "dosage": "80 mg",
+            "route": "oral",
+            "frequency": "daily",
+            "location": "page 5, row 3"
+        },
+        {
+            "name": "cyanocobalamin (vitamin B-12)",
+            "dosage": "1,000 mcg",
+            "route": "oral",
+            "frequency": "daily",
+            "location": "page 5, row 4"
+        },
+        {
+            "name": "donepezil",
+            "dosage": "5 mg",
+            "route": "oral",
+            "frequency": "daily",
+            "location": "page 5, row 5"
+        },
+        {
+            "name": "fluticasone propionate",
+            "dosage": "1 spray",
+            "route": "nasal",
+            "frequency": "BID",
+            "location": "page 5, row 6"
+        },
+        {
+            "name": "Folic acid",
+            "dosage": "1,000 mcg",
+            "route": "oral",
+            "frequency": "QAM",
+            "location": "page 5, row 7"
+        },
+        {
+            "name": "levothyroxine",
+            "dosage": "37.5 mcg",
+            "route": "oral",
+            "frequency": "2x weekly",
+            "location": "page 5, row 8"
+        },
+        {
+            "name": "levothyroxine",
+            "dosage": "75 mcg",
+            "route": "oral",
+            "frequency": "5x weekly",
+            "location": "page 5, row 9"
+        },
+        {
+            "name": "melatonin",
+            "dosage": "5 mg",
+            "route": "oral",
+            "frequency": "Nightly",
+            "location": "page 6, row 1"
+        },
+        {
+            "name": "mirtazapine",
+            "dosage": "15 mg",
+            "route": "oral",
+            "frequency": "daily",
+            "location": "page 6, row 2"
+        },
+        {
+            "name": "nicotine",
+            "dosage": "21 mg/24 hr",
+            "route": "transdermal",
+            "frequency": "daily",
+            "location": "page 6, row 3"
+        },
+        {
+            "name": "senna",
+            "dosage": "2 tablet",
+            "route": "oral",
+            "frequency": "Nightly",
+            "location": "page 6, row 4"
+        },
+        {
+            "name": "sennosides",
+            "dosage": "17.6 mg",
+            "route": "oral",
+            "frequency": "Nightly",
+            "location": "page 6, row 5"
+        }
+    ],
+    "prn_medications": [
+        {
+            "name": "sibuterol",
+            "dosage": "90 mcg/actuation",
+            "route": "inhaler",
+            "location": "page 6, row 1"
+        },
+        {
+            "name": "aluminum-magnesium hydroxide-simethicone",
+            "dosage": "200-200-20 mg/5 mL",
+            "route": "oral",
+            "location": "page 6, row 2"
+        },
+        {
+            "name": "bisacodyl",
+            "dosage": "10 mg",
+            "route": "rectal",
+            "location": "page 6, row 3"
+        },
+        {
+            "name": "HYDROmorphone",
+            "dosage": "0.2-0.4 mg",
+            "route": "IV",
+            "location": "page 6, row 4"
+        },
+        {
+            "name": "ipratropium-albuterol",
+            "dosage": "0.5-3 mg/3 mL",
+            "route": "nebulizer",
+            "location": "page 6, row 5"
+        },
+        {
+            "name": "trazodone",
+            "dosage": "25 mg",
+            "route": "oral",
+            "location": "page 6, row 6"
+        }
+    ]
+}
