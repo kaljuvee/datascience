@@ -1,4 +1,4 @@
-# Bridgesocialcare - Proof of Concept (POC) for Medication Extraction from SNF Referral Documents
+# Proof of Concept (POC) for Medication Extraction from SNF Referral Documents
 
 To build a proof of concept (POC) for extracting scheduled and as required (PRN - Latin phrase for 'pro re nata' - 'as required') medications from skilled nursing facility (SNF) referral documents, the solution can involve the following components:
 
